@@ -1,3 +1,5 @@
 sample
 
-add test local
+add test master
+
+add local
